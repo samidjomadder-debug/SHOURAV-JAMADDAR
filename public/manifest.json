@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "HisabKhatiyan Business Manager",
+  "short_name": "HisabKhatiyan",
+  "description": "Professional Business Management, Invoicing, Inventory & Accounting Software",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E53935",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

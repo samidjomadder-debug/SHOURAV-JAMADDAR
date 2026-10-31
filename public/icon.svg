@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#E53935"/>
+  <rect x="28" y="28" width="456" height="456" rx="96" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="8"/>
+  <!-- Ledger Book and Growth Chart Graphic in White -->
+  <path d="M128 112C110.3 112 96 126.3 96 144V368C96 385.7 110.3 400 128 400H384C401.7 400 416 385.7 416 368V144C416 126.3 401.7 112 384 112H128Z" fill="#C62828"/>
+  <path d="M140 128H372C383 128 392 137 392 148V364C392 375 383 384 372 384H140C129 384 120 375 120 364V148C120 137 129 128 140 128Z" fill="#FFFFFF"/>
+  <!-- Red spine & accounting grid lines -->
+  <rect x="120" y="128" width="36" height="256" rx="4" fill="#E53935"/>
+  <circle cx="138" cy="168" r="6" fill="#FFFFFF"/>
+  <circle cx="138" cy="224" r="6" fill="#FFFFFF"/>
+  <circle cx="138" cy="280" r="6" fill="#FFFFFF"/>
+  <circle cx="138" cy="336" r="6" fill="#FFFFFF"/>
+  <!-- Trend chart & bars -->
+  <rect x="184" y="270" width="28" height="74" rx="4" fill="#FFEAEA"/>
+  <rect x="228" y="220" width="28" height="124" rx="4" fill="#FFCDD2"/>
+  <rect x="272" y="180" width="28" height="164" rx="4" fill="#EF5350"/>
+  <rect x="316" y="240" width="28" height="104" rx="4" fill="#FFCDD2"/>
+  <rect x="360" y="150" width="28" height="194" rx="4" fill="#E53935"/>
+  <!-- Growth trend line -->
+  <path d="M198 250L242 200L286 160L330 220L374 130" fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="374" cy="130" r="7" fill="#E53935" stroke="#FFFFFF" stroke-width="3"/>
+</svg>

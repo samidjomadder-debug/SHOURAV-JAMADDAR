@@ -1,0 +1,6 @@
+{
+  "name": "HisabKhatiyan - Business & Accounting Manager",
+  "description": "Professional multi-business management & accounting software with offline synchronization, sales POS, inventory tracking, customer/supplier ledgers, and bilingual English & Bengali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
